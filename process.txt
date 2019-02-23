@@ -1,1 +1,3 @@
-check few things about React and nodejs express
+check few things about React and nodejs express: https://www.tutorialspoint.com/reactjs/
+checking out this youtube video....(https://www.youtube.com/watch?v=Ke90Tje7VS0&t=2433s)
+creating first react app using(create-react-app)
